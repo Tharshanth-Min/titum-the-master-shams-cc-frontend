@@ -1,0 +1,25 @@
+.Header {}
+
+.breadcrumb {
+    height: 50px;
+    border-radius: 0;
+}
+
+
+
+img#header-logo {
+    width: 130px;
+    padding-left: 30px;
+    height: 40px;
+    padding-bottom: 10px;
+}
+
+
+.page-header{
+    padding-left: 1rem !important;
+    padding-top: 0.4rem !important;
+    text-transform: uppercase;
+    color: #fff !important;
+    font-weight: 800;
+    font-size: 16px;
+}

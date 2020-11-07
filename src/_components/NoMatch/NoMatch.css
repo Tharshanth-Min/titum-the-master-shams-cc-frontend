@@ -1,0 +1,46 @@
+nav .brand-logo {
+    left: 4.5rem !important;
+}
+nav a.button-collapse {
+    display: block; }
+
+@font-face{font-family:'Material Icons';font-style:normal;font-weight:400;src:local('Material Icons'),local('MaterialIcons-Regular'),url(https://fonts.gstatic.com/s/materialicons/v10/2fcrYFNaTjcS6g4U3t-Y5UEw0lE80llgEseQY3FEmqw.woff2) format('woff2')}.material-icons{font-family:'Material Icons';font-weight:400;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased}
+nav .brand-logo
+{
+    font-size:1.5rem !important
+}
+.card-image
+{
+    background:#9E9E9E;
+    text-align:center;
+}
+.card-image .card-title
+{
+    text-align:initial;
+}
+.card-image img
+{
+    max-width:300px;
+    margin:0 auto;
+}
+@media (max-width:600px)
+{
+    nav .right
+    {
+        margin:16px 0
+    }
+}
+#main{padding-top:1rem}
+#actovrdrpdwn{min-width:150px;}
+.page-footer{background:#e91e63 !important}
+#actovrdrpdwn li>a
+{color:black}
+#nav-navi{display:none;}
+#sidenav-overlay
+{
+    z-index:1000;
+}
+.side-nav
+{
+    z-index:1001;
+}
